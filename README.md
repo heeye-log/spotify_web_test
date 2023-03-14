@@ -1,1 +1,1 @@
-# spotify_web_test(IDE)
+# spotify_web_test(Selenium IDE)
